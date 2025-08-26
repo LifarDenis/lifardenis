@@ -46,22 +46,5 @@
 
 ---
 
-## 🚀 Проекты (закрепите эти репозитории)
-- **qa-api-collections** — коллекции Postman + CI через Newman  
-- **graphql-testing-examples** — примеры запросов/мутаций + автотесты (pytest)  
-- **mobile-qa-checklists** — чек-листы и шаблоны для iOS/Android  
-- **db-monitoring-playbook** — SQL-проверки + базовые гайды по Grafana/Kibana  
-- **qa-py-snippets** — утилиты на Python (faker, Kafka, Redis)
-
----
-
-## 📊 Статистика
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=denis-lifar&show_icons=true&theme=github_dark&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=denis-lifar&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ## 📫 Контакты
 **Email:** denislifar3@gmail.com · **LinkedIn:** /in/denis-lifar-02b714244/
