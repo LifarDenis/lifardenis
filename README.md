@@ -47,4 +47,5 @@
 ---
 
 ## 📫 Контакты
-**Email:** denislifar3@gmail.com · **LinkedIn:** /in/denis-lifar-02b714244/
+Email: [denislifar3@gmail.com](mailto:denislifar3@gmail.com)  
+LinkedIn: [linkedin.com/in/denis-lifar-02b714244](https://www.linkedin.com/in/denis-lifar-02b714244/)
